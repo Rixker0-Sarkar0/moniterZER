@@ -96,7 +96,3 @@ This project helps you monitor log files and send email alerts when specific pat
 - **No Alerts**: Ensure that your log files contain entries matching the alert patterns.
 - **Email Issues**: Verify your email server settings and check the script log for any errors.
 - **Service Issues**: Check the service status with `systemctl status monitorzer.service` for any errors.
-
-## Conclusion
-
-This guide helps you set up a monitoring and alerting system on Linux and configure it to run as a system daemon. If you encounter issues or need more help, refer to the script logs or consult further documentation on Python, systemd, and email configuration.
