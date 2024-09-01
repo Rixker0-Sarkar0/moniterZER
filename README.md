@@ -20,7 +20,6 @@ This project helps you monitor log files and send email alerts when specific pat
     Open a terminal and run:
 
     ```bash
-    mkdir ~/monitorzer
     cd ~/monitorzer
     ```
 
