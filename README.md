@@ -7,7 +7,7 @@ This project helps you monitor log files and send email alerts when specific pat
 ## What You Need
 
 - **Python 3.x**: Ensure Python 3.x is installed on your machine.
-- **Email Server**: You need an email server to send alerts. You can use a local server like `hMailServer` or any other SMTP server.
+- **Email Server**: You need an email server to send alerts. You can use a local server like `Postfix` or any other SMTP server.
 
 ## Setting Up the System
 
